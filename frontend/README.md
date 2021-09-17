@@ -21,7 +21,7 @@ As an user, a tester can view all the products and add to invoice. Can create ne
 1. Clone/ download this github repository. `https://github.com/jorgefprietol/pos-edimca-test.git`
 2. Extract it on your local machine.
 3. Open frontend/ folder in vscode.
-4. Run `npm install` to download all the dependencies. npm install -D babel-loader @babel/core @babel/preset-env webpack
+4. Run `npm install` to download all the dependencies.
 5. Run `npm start` to run the project.
 
 #### API Documentation
